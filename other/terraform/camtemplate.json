@@ -23,7 +23,6 @@
       }
     },
     "metadata": {
-      "displayName": "Clone IBM-CAMHub-Open",
       "providerDisplayName": "Other",
       "longDescription": "Clone all repositories in IBM-CAMHub-Open in github.com to a virtual machine that is owned and provided by customer.",
       "bullets": [
@@ -37,7 +36,7 @@
        },
        {
          "title": "Operating systems supported",
-         "description": "Red Hat Enterprise Linux 6 and above<br>Ubuntu 14.04 LTS and higher<br>CentOS 7 and higher<br>"
+         "description": "<ul><li>Red Hat Enterprise Linux 6 and above</li><li>Ubuntu 14.04 LTS and higher</li><li>CentOS 7 and higher</li></ul>"
        },
        {
          "title": "Topology",
@@ -45,7 +44,7 @@
        },
        {
          "title": "Usage and special notes",
-         "description": "<ul><li>1. Tools including curl and git will be installed in the virtual machine if they do not exist.</li><li>2. Please log into the virtual machine to check out the repositories cloned.</li></ul>"
+         "description": "<ol class=\"list-numbering\"><li>Tools including curl and git will be installed in the virtual machine if they do not exist.</li><li>Please log into the virtual machine to check out the repositories cloned.</li></ol>"
        }
        ],
        "featuredImageUrl": "",
